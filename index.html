@@ -91,7 +91,18 @@
  </article>
 <article>
   <img src="https://i.imgur.com/xGHIAta.jpg" alt="Senna enemy" width="575" height="715"   
-<span class="likebtn-wrapper" data-theme="disk" data-ef_voting="push"></span>
+<body>
+    <script type="text/javascript">
+    int clicks = 0;
+    function click() {
+        clicks += 1;
+        document.getElementById("clicks").innerHTML = like;
+    };
+    </script>
+    <button type="button" onClick="click()">like</button>
+    <p>Clicks: <a id="like">0</a></p>
+
+</body></html>
  </article>
 <hr>
 
