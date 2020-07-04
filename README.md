@@ -46,7 +46,7 @@
 </head>
 <body>
   <header>
-    <img src= url(https://i.imgur.com/YYE3hge.jpeg)>
+    <img src= https://i.imgur.com/YYE3hge.jpeg>
     <h1>Senna's Blog</h1>
     <ul>
       <li> <a href="https://milapoolvos.github.io"> Home </a> </li>
